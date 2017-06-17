@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a4da010a0dd34ac409768ca2e33ad261
+timeCreated: 1496863450
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Mana: {fileID: 2100000, guid: b9c34285e03b5d145b3d6b67ad6ff4f3, type: 2}
+  - Deck: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

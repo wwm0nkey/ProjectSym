@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be1a4c61f18892f49a3d1c8fe362d510
+timeCreated: 1497673339
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Mana: {fileID: 2100000, guid: b9c34285e03b5d145b3d6b67ad6ff4f3, type: 2}
+  - Shield: {fileID: 2100000, guid: 51202c5f6f7f729428a2337b9623722d, type: 2}
+  - Power: {fileID: 2100000, guid: 83b27798afc3f4347a0d0cdc907441e9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
